@@ -14,7 +14,7 @@ _6) Squad_
 _7) Left side lunge_  
 _8) Right side lunge_  
 _9) Left limb extension_  
-_10) Reft limb extension_  
+_10) Right limb extension_  
 
 ![overview](https://user-images.githubusercontent.com/82195094/114236867-dfb76d00-9947-11eb-90d5-130926828cbf.gif)
 
