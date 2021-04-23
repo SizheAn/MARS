@@ -1,7 +1,8 @@
 # MARS
-MARS: mmWave-based Assistive Rehabilitation System for Smart Healthcare
+**MARS: mmWave-based Assistive Rehabilitation System for Smart Healthcare**
 
 The figure below shows ten different movements we evaluate in our dataset.
+
 They are:
 
 _1) Left upper limb extension_  
