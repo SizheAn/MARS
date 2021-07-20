@@ -1,7 +1,7 @@
 # MARS
 **MARS: mmWave-based Assistive Rehabilitation System for Smart Healthcare**
 
-_**This repository is for the blind review of paper submission. We do not reveal the publication and authors' information at this point. The proper license and identity information will be updated after the paper is published.**_
+_**This article appears as part of the ESWEEK-TECS special issue and will be presented in the International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), 2021. The proper publication information will be updated later.**_
 
 The figure below shows ten different movements we evaluate in our dataset.
 
@@ -77,5 +77,20 @@ The code contains load data, compile model, training, and testing. Readers can a
 ```
 python MARS_model.py
 ```
+**License**
 
+A MIT license is used for this repository. 
 
+**Reference**
+```
+@article{ ,
+  title={MARS: mmWave-based Assistive Rehabilitation System for Smart Healthcare},
+  author={An, Sizhe and Ogras, Umit Y},
+  journal={ACM Transactions on Embedded Computing Systems (TECS)},
+  volume={ },
+  number={ },
+  pages={ },
+  year={2021},
+  publisher={ACM Virtual}
+}
+```
