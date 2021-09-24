@@ -1,7 +1,7 @@
 # MARS
 **MARS: mmWave-based Assistive Rehabilitation System for Smart Healthcare**
 
-_**This article appears as part of the ESWEEK-TECS special issue and will be presented in the International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), 2021. The proper publication information will be updated later.**_
+_**This article appears as part of the ESWEEK-TECS special issue and will be presented in the International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), 2021. The proper publication information is in the reference section.**_
 
 The figure below shows ten different movements we evaluate in our dataset.
 
@@ -83,14 +83,22 @@ A MIT license is used for this repository.
 
 **Reference**
 ```
-@article{ ,
-  title={MARS: mmWave-based Assistive Rehabilitation System for Smart Healthcare},
-  author={An, Sizhe and Ogras, Umit Y},
-  journal={ACM Transactions on Embedded Computing Systems (TECS)},
-  volume={ },
-  number={ },
-  pages={ },
-  year={2021},
-  publisher={ACM Virtual}
+@article{10.1145/3477003,
+author = {An, Sizhe and Ogras, Umit Y.},
+title = {MARS: MmWave-Based Assistive Rehabilitation System for Smart Healthcare},
+year = {2021},
+issue_date = {October 2021},
+volume = {20},
+number = {5s},
+issn = {1539-9087},
+url = {https://doi.org/10.1145/3477003},
+doi = {10.1145/3477003},
+journal = {ACM Trans. Embed. Comput. Syst.},
+month = sep,
+articleno = {72},
+numpages = {22},
+keywords = {millimeter wave, Human pose estimation, point cloud, smart healthcare}
 }
+
+
 ```
